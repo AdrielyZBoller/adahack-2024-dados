@@ -40,9 +40,10 @@ Acesso ao [Formulário](https://docs.google.com/forms/d/e/1FAIpQLSdoglp-c4JXYuu5
 <summary>Informações</summary>
 <p style="text-align: justify;"> Com o objetivo de melhorar a base de dados da Corp Solutions em relação à diversidade de sua equipe, foi proposto um formulário com perguntas adicionais sobre o tema. Esse formulário procura obter maiores informações sobre a diversidade entre os membros da empresa, possibilitando a identificação de lacunas e áreas de melhoria.</p>
 
-<p style="text-align: center;"> Figura 1 - Imagem do Formulário de Diversidade</p>
 
-![Form1](https://github.com/AdrielyZBoller/adahack-2024-dados/blob/main/Entregas/DD-05/Imagem/Form1.jpg)
+ **Imagem do Formulário de Diversidade.**
+
+ ![Form1](https://github.com/AdrielyZBoller/adahack-2024-dados/blob/main/Entregas/DD-05/Imagem/Form1.jpg)
 
 </details>
 
