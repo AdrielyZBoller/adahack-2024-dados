@@ -4,11 +4,13 @@
 ---
 # Projeto Ada Hack 
 
-Este repositório tem como objetivo mostrar o projeto desenvolvido durante o Hackathon desenvolvido pela Ada Tech|Vem ser Tech - Ifood. 
+<p style="text-align: justify;">Este repositório tem como objetivo mostrar o projeto desenvolvido durante o Hackathon desenvolvido pela Ada Tech | Vem ser Tech - Ifood.</p>
+
 
 **Desafio**:
 
-O objetivo do Ada Hack é criar estratégias e desenvolver soluções inovadoras que ajudem a Corp Solutions a aumentar a diversidade e a inclusão em sua equipe. 
+<p style="text-align: justify;">O objetivo do Ada Hack é criar estratégias e desenvolver soluções inovadoras que ajudem a Corp Solutions a aumentar a diversidade e a inclusão em sua equipe.</p>
+ 
 
 **Integrantes**:
 
@@ -26,7 +28,24 @@ O objetivo do Ada Hack é criar estratégias e desenvolver soluções inovadoras
 
 # Nome do Projeto
 
+
+
 # Proposta 
 
+**Calculadora**:
+
+### 📌Formulário de Diversidade:
+Acesso ao [Formulário](https://docs.google.com/forms/d/e/1FAIpQLSdoglp-c4JXYuu5TiSiKoYRZ_zdE3X7qBJeYQFudg4MWG5fMA/viewform)
+<details>
+<summary>Informações</summary>
+<p style="text-align: justify;"> Com o objetivo de melhorar a base de dados da Corp Solutions em relação à diversidade de sua equipe, foi proposto um formulário com perguntas adicionais sobre o tema. Esse formulário procura obter maiores informações sobre a diversidade entre os membros da empresa, possibilitando a identificação de lacunas e áreas de melhoria.</p>
+
+<p style="text-align: center;"> Figura 1 - Imagem do Formulário de Diversidade</p>
+
+![Form1](https://github.com/AdrielyZBoller/adahack-2024-dados/blob/main/Entregas/DD-05/Imagem/Form1.jpg)
+
+</details>
+
+
 # Referências
-- [Dados do Censo demográfico 2022](https://censo2022.ibge.gov.br/panorama/)
+- Dados do IBGE - [Censo demográfico 2022](https://censo2022.ibge.gov.br/panorama/)
